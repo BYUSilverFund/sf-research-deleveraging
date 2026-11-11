@@ -1,6 +1,6 @@
 [project]
-name = "sf-research-bayesian-reversal"
-version = "0.1.0"
+name = "sf-research-deleveraging"
+version = "0.2.9"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
